@@ -1,7 +1,7 @@
 # DiegoPiol
 
 ### 👨‍💻 Sobre Mim
-Olá! Sou Diego, 18 anos, de São Paulo 🇧🇷.<br/>
+Olá! Sou Diego, 19 anos, de São Paulo 🇧🇷.<br/>
 🎓 Formação escolar concluída no Colégio Jardim São Paulo.<br/>
 💻 Cursando 3º semestre de Ciência Da Computação no Instituto Mauá de Tecnologia.<br/>
 💡 Interessado em programação, desenvolvimento de software e novas tecnologias.<br/>
