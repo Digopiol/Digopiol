@@ -48,7 +48,9 @@ Olá! Sou Diego, 19 anos, de São Paulo 🇧🇷.<br/>
 
 <br/><br/>
 
-### 📊 Estatísticas
-
-<img alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Digopiol&show_icons=true&theme=tokyonight&locale=pt-br" />
+<img 
+  alt="GitHub Stats" 
+  height="200" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=Digopiol&show_icons=true&theme=tokyonight&locale=pt-br" 
+/>
 
